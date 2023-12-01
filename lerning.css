@@ -1,0 +1,54 @@
+body {
+    background-color: powderblue;
+    
+}
+  h1 {
+    text-align: center;
+    height: 111px;
+    width: 70%;
+    font-size: 40px;
+    background-color: rgb(230, 176, 217);
+    
+  }
+  .grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: #2196F3;
+    padding: 10px;
+  }
+  
+ .grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+  }
+  menu {
+    color: rgb(51, 0, 255)
+  }
+  OL {
+    color: rgb(255, 255, 0)
+  }
+  a {
+    height: 111px;
+    width: 70%;
+    font-size: 14px;
+  }
+  h2 {
+    text-align: center;
+    height: 111px;
+    width: 70%;
+    font-size: 30px;
+    background-color: rgb(230, 176, 217);
+    
+  }
+  p {
+    color: red;
+  }
+  img {
+    margin: 25px;
+    padding: 25px 25px 25px 25px;
+    border-radius: 50%;
+    border: 5px solid #555;
+  }
